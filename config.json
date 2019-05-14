@@ -38,7 +38,8 @@
 				"href": "assets/wechat.jpg",
 				"icon": "wechat",
 				"height": "95",
-				"width": "95"
+				"width": "95",
+				"text": "Wechat"
 			},
 			"quarter_second": {
 				"href": "https://github.com/tomotoes",
@@ -52,7 +53,8 @@
 			},
 			"quarter_fourth": {
 				"href": "javascript:;",
-				"icon": "other"
+				"icon": "other",
+				"text": "other"
 			}
 		}
 	}
